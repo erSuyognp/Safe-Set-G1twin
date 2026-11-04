@@ -1,0 +1,17 @@
+it      0 gamma 0.9000 eps 0.50 critic loss 5.19e-03 buffer 1024 1s
+it   5000 gamma 0.9339 eps 0.44 critic loss 7.88e-05 buffer 1000000 106s
+it  10000 gamma 0.9563 eps 0.38 critic loss 6.67e-05 buffer 1000000 207s
+it  15000 gamma 0.9711 eps 0.31 critic loss 5.29e-05 buffer 1000000 306s
+it  20000 gamma 0.9809 eps 0.25 critic loss 3.06e-05 buffer 1000000 406s
+it  25000 gamma 0.9874 eps 0.19 critic loss 1.85e-05 buffer 1000000 507s
+it  30000 gamma 0.9917 eps 0.12 critic loss 3.78e-05 buffer 1000000 606s
+it  35000 gamma 0.9945 eps 0.06 critic loss 2.64e-05 buffer 1000000 706s
+it  40000 gamma 0.9964 eps 0.05 critic loss 1.90e-05 buffer 1000000 805s
+it  45000 gamma 0.9976 eps 0.05 critic loss 3.39e-05 buffer 1000000 904s
+it  50000 gamma 0.9984 eps 0.05 critic loss 2.46e-05 buffer 1000000 1002s
+it  55000 gamma 0.9989 eps 0.05 critic loss 2.34e-05 buffer 1000000 1101s
+it  60000 gamma 0.9993 eps 0.05 critic loss 2.90e-05 buffer 1000000 1199s
+it  65000 gamma 0.9995 eps 0.05 critic loss 2.11e-05 buffer 1000000 1299s
+it  70000 gamma 0.9995 eps 0.05 critic loss 1.56e-05 buffer 1000000 1397s
+it  75000 gamma 0.9995 eps 0.05 critic loss 2.14e-05 buffer 1000000 1495s
+it  79999 gamma 0.9995 eps 0.05 critic loss 1.75e-05 buffer 1000000 1593s
